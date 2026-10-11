@@ -1,0 +1,242 @@
+[
+  {
+    "id": "gotong-royong-lingkungan",
+    "category": "lingkungan",
+    "categoryLabel": "Lingkungan",
+    "format": "one-off",
+    "title": "Jaga lingkungan, bantu warga.",
+    "summary": "Pemuda dan warga bergotong royong membersihkan lingkungan, menyiapkan akses jalan, dan membantu penyaluran air bersih.",
+    "activities": [
+      {
+        "title": "Kerja bakti bersih lingkungan",
+        "format": "one-off",
+        "sortDate": "2025-11-09",
+        "summary": "Pemuda dan warga membersihkan lingkungan bersama.",
+        "timing": "Oktober–November 2025",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Persiapan akses jalan",
+        "format": "one-off",
+        "sortDate": "2025-12-01",
+        "summary": "Warga menyiapkan akses jalan melalui kerja bersama.",
+        "timing": "Desember 2025",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Penyaluran bantuan air bersih",
+        "format": "one-off",
+        "sortDate": "2026-05-12",
+        "summary": "Pemuda membantu komunikasi, penyiapan bantuan, dan distribusi air bersih.",
+        "timing": "Mei 2026",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Kerja bakti dan kumpul warga RT 01",
+        "format": "one-off",
+        "sortDate": "2026-05-23",
+        "detail": false,
+        "summary": "Warga dan pemuda bergotong royong dalam kegiatan lingkungan berskala RT.",
+        "timing": "23 Mei 2026",
+        "status": "Selesai dilaksanakan"
+      }
+    ],
+    "image": "images/arsip-gotong-royong.jpg",
+    "imageAlt": "Dokumentasi Kegiatan Lingkungan",
+    "imageNote": "Kegiatan lingkungan, 9 November 2025 · menunggu izin publikasi foto",
+    "status": "Dilaksanakan sesuai kebutuhan",
+    "goal": "Gotong royong membantu warga menangani kebutuhan lingkungan yang bisa dikerjakan bersama.",
+    "context": "Pada Oktober–November 2025, pemuda dan warga mengadakan aksi bersih. Persiapan akses jalan dilakukan pada Desember 2025, disusul dukungan air bersih pada Mei 2026.",
+    "audience": "Pemuda dan warga Kampung Babakan RW 009.",
+    "steps": ["Membersihkan lingkungan bersama warga.", "Menyiapkan akses jalan.", "Menggalang dan menyalurkan bantuan air bersih."],
+    "needs": ["Relawan kegiatan", "Peralatan kebersihan", "Transportasi untuk penyaluran bantuan"],
+    "success": "Aksi bersih dan penyaluran bantuan telah dilakukan. Jumlah peserta dan warga penerima bantuan belum tersedia.",
+    "closing": "Catatan pelaksanaan tersedia, tetapi volume bantuan, jumlah penerima, dan laporan keuangan belum tersedia untuk publik.",
+    "owner": "Bidang Lingkungan dan Kesehatan bersama koordinator kegiatan",
+    "timing": "Dilaksanakan sesuai kebutuhan; jadwal berikutnya belum tersedia",
+    "location": "Kampung Babakan RW 009; titik kegiatan berbeda sesuai kebutuhan"
+  },
+  {
+    "id": "ruang-belajar-budaya",
+    "category": "pendidikan",
+    "categoryLabel": "Pendidikan",
+    "format": "recurring",
+    "title": "Belajar dekat rumah.",
+    "summary": "Kelas bahasa Inggris, latihan Jaipong, kajian, dan pelatihan praktis membuka ruang belajar dari kemampuan yang ada di sekitar.",
+    "activities": [
+      {
+        "title": "Kelas bahasa Inggris",
+        "format": "one-off",
+        "sortDate": "2025-10-21",
+        "summary": "Ruang belajar bahasa Inggris dari kemampuan yang ada di sekitar.",
+        "timing": "Rangkaian 2025–2026 · tanggal khusus belum tersedia",
+        "status": "Pernah dilaksanakan"
+      },
+      {
+        "title": "Latihan Jaipong",
+        "format": "one-off",
+        "sortDate": "2025-11-09",
+        "summary": "Latihan seni tari membuka ruang belajar budaya dekat rumah.",
+        "timing": "Rangkaian 2025–2026 · tanggal khusus belum tersedia",
+        "status": "Pernah dilaksanakan"
+      },
+      {
+        "title": "Kajian pemuda",
+        "format": "recurring",
+        "sortDate": "2026-08-31",
+        "summary": "Ruang kajian menjadi bagian dari kegiatan belajar bersama pemuda.",
+        "timing": "Rangkaian 2025–2026 · tanggal khusus belum tersedia",
+        "status": "Pernah dilaksanakan"
+      },
+      {
+        "title": "Pelatihan desain",
+        "format": "one-off",
+        "sortDate": "2025-11-22",
+        "summary": "Keterampilan desain dibagikan melalui pelatihan di lingkungan kampung.",
+        "timing": "Rangkaian 2025–2026 · tanggal khusus belum tersedia",
+        "status": "Pernah dilaksanakan"
+      },
+      {
+        "title": "Pelatihan produk rumah tangga",
+        "format": "one-off",
+        "sortDate": "2025-12-27",
+        "summary": "Warga berbagi keterampilan membuat produk rumah tangga.",
+        "timing": "Rangkaian 2025–2026 · tanggal khusus belum tersedia",
+        "status": "Pernah dilaksanakan"
+      },
+      {
+        "title": "Layanan Ramadan dan buka puasa bersama",
+        "format": "one-off",
+        "sortDate": "2026-03-17",
+        "detail": false,
+        "summary": "Pemuda mendukung tadarus, layanan zakat, informasi warga, dan buka puasa bersama.",
+        "timing": "Februari–Maret 2026",
+        "status": "Selesai bertahap"
+      }
+    ],
+    "image": "images/learn.jpg",
+    "imageAlt": "Dokumentasi Kegiatan Belajar dan Budaya",
+    "imageNote": "Foto ilustrasi · foto kegiatan menunggu izin publikasi",
+    "status": "Pernah dilaksanakan",
+    "goal": "Kelas dan latihan memberi ruang bagi warga untuk berbagi pengetahuan, seni, dan keterampilan di lingkungan sendiri.",
+    "context": "Kegiatannya meliputi kelas bahasa Inggris, latihan Jaipong, kajian pemuda, pelatihan desain, dan pelatihan produk rumah tangga.",
+    "audience": "Pemuda, anak, dan warga sesuai tema kegiatan.",
+    "steps": ["Belajar bahasa Inggris bersama.", "Berlatih Jaipong.", "Mengadakan kajian pemuda.", "Berbagi keterampilan desain dan pembuatan produk rumah tangga."],
+    "needs": ["Pengajar atau fasilitator", "Tempat belajar", "Bahan dan peralatan kegiatan"],
+    "success": "Kelas dan pelatihan pernah dilaksanakan. Jumlah peserta dan rencana kegiatan berikutnya belum tersedia.",
+    "closing": "Tanyakan jadwal terbaru kepada pengurus. Warga dapat ikut sebagai peserta, berbagi kemampuan sebagai fasilitator, atau membantu tempat dan bahan kegiatan.",
+    "owner": "Bidang Pendidikan dan Pelatihan, Seni Budaya, dan Keagamaan",
+    "timing": "Kegiatan berlangsung pada Oktober 2025–September 2026; jadwal berikutnya belum tersedia",
+    "location": "Berbagai tempat di Kampung Babakan RW 009; lokasi kegiatan berikutnya belum tersedia"
+  },
+  {
+    "id": "lapang-dan-olahraga",
+    "category": "kebersamaan",
+    "categoryLabel": "Kebersamaan",
+    "format": "recurring",
+    "title": "Lapang hidup, warga bergerak.",
+    "summary": "Perbaikan lapang voli dilakukan bertahap. Latihan voli, badminton, dan tenis meja juga menjadi ruang olahraga dan kebersamaan warga.",
+    "activities": [
+      {
+        "title": "Perbaikan lapang voli",
+        "format": "one-off",
+        "sortDate": "2026-09-30",
+        "summary": "Pembelian bahan, kerja bakti, serta pemasangan tiang, garis, dan net dilakukan bertahap.",
+        "timing": "Juli–September 2026",
+        "status": "Belum dinyatakan selesai"
+      },
+      {
+        "title": "Latihan voli",
+        "format": "recurring",
+        "sortDate": "2026-10-10",
+        "summary": "Latihan voli menjadi ruang bergerak dan bertemu bagi warga.",
+        "timing": "Tercatat hingga Oktober 2026",
+        "status": "Pernah berlangsung"
+      },
+      {
+        "title": "Latihan badminton",
+        "format": "recurring",
+        "sortDate": "2026-10-04",
+        "summary": "Badminton menjadi salah satu kegiatan olahraga bersama warga.",
+        "timing": "Tercatat hingga Oktober 2026",
+        "status": "Pernah berlangsung"
+      },
+      {
+        "title": "Tenis meja",
+        "format": "recurring",
+        "sortDate": "2026-09-27",
+        "summary": "Tenis meja melengkapi pilihan kegiatan olahraga di sekitar kampung.",
+        "timing": "Tercatat hingga Oktober 2026",
+        "status": "Pernah berlangsung"
+      },
+      {
+        "title": "Penyaluran bantuan sosial",
+        "format": "one-off",
+        "sortDate": "2025-11-30",
+        "detail": false,
+        "summary": "Bantuan dilaporkan telah disalurkan; jumlah penerima belum dipublikasikan.",
+        "timing": "28–30 November 2025",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Dukungan kegiatan Rajaban",
+        "format": "one-off",
+        "sortDate": "2026-01-16",
+        "detail": false,
+        "summary": "Pemuda membantu persiapan, logistik, dan jalannya kegiatan Rajaban warga.",
+        "timing": "16 Januari 2026",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Papajar dan botram warga",
+        "format": "one-off",
+        "sortDate": "2026-02-07",
+        "detail": false,
+        "summary": "Warga dan keluarga berkumpul dalam kegiatan lintas generasi dan makan bersama.",
+        "timing": "7 Februari 2026",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "PHBN / HUT RI 81",
+        "format": "one-off",
+        "sortDate": "2026-08-31",
+        "detail": false,
+        "summary": "Pemuda, warga, dan pemerintah RW berkolaborasi dalam rangkaian kegiatan kemerdekaan.",
+        "timing": "Juli–Agustus 2026",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Hayu Camp",
+        "format": "one-off",
+        "sortDate": "2026-09-20",
+        "detail": false,
+        "summary": "Ruang berkumpul, memasak, bermain, berdiskusi, dan membangun hubungan antaranggota.",
+        "timing": "19–20 September 2026",
+        "status": "Selesai dilaksanakan"
+      },
+      {
+        "title": "Dukungan Maulid Nabi",
+        "format": "one-off",
+        "sortDate": "2026-09-11",
+        "detail": false,
+        "summary": "Pemuda mendukung persiapan, transportasi, konsumsi, tata suara, dan operasional acara.",
+        "timing": "11 September 2026",
+        "status": "Selesai dilaksanakan"
+      }
+    ],
+    "image": "images/court.jpg",
+    "imageAlt": "Dokumentasi Kegiatan Olahraga",
+    "imageNote": "Foto ilustrasi",
+    "status": "Kegiatan olahraga berlangsung · renovasi belum dinyatakan selesai",
+    "goal": "Lapang dan kegiatan olahraga memberi warga ruang untuk berlatih, bergerak, dan bertemu.",
+    "context": "Pada Juli–September 2026, perbaikan lapang meliputi pembelian bahan, kerja bakti, serta pemasangan tiang, garis, dan net. Kegiatan olahraga berlangsung hingga Oktober 2026.",
+    "audience": "Pemuda, pemain, pelatih, dan warga Kampung Babakan RW 009.",
+    "steps": ["Membeli bahan perbaikan.", "Melakukan kerja bakti bertahap.", "Memasang tiang, garis, dan net.", "Mengadakan latihan voli, badminton, dan tenis meja."],
+    "needs": ["Relawan perawatan lapang", "Peralatan olahraga", "Dukungan perawatan fasilitas"],
+    "success": "Perbaikan dilakukan bertahap dan kegiatan olahraga berlangsung hingga Oktober 2026. Renovasi belum dinyatakan selesai, dan laporan keuangan akhirnya belum tersedia.",
+    "closing": "Tanyakan jadwal dan akses terbaru kepada pengurus. Warga dapat ikut berlatih atau membantu perawatan fasilitas dan perlengkapan olahraga.",
+    "owner": "Bidang Olahraga bersama koordinator renovasi",
+    "timing": "Perbaikan lapang berlangsung pada Juli–September 2026; kegiatan olahraga berlangsung hingga Oktober 2026",
+    "location": "Lapang dan ruang olahraga Kampung Babakan RW 009; jadwal kegiatan berikutnya belum tersedia"
+  }
+]
