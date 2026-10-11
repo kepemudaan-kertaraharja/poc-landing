@@ -4,7 +4,7 @@ An Indonesian-first evergreen profile for an established neighborhood youth asso
 
 **Site direction: “Here is who we are and what we do.”** This is a public association profile and portfolio for people discovering the community, including potential collaborators. Identity, activities, and stories lead; a small support invitation and local participation options follow. It is one public site, with no separate sponsor funnel.
 
-**The organization and its work are real; the website now contains a real but unconfirmed content draft.** The official name, location, 2025–2030 leadership term, and selected 2025–2026 activities come from internal records. Current schedules, impact totals, the final volleyball-court renovation report, public contact ownership, and photo permissions still require approval.
+**The organization and its work are real; the website now contains a real but unconfirmed content draft.** The official name, location, 2025–2030 leadership term, and selected 2025–2026 activities come from internal records. Current schedules, impact totals, the final volleyball-court renovation report, public contact ownership, and photo permissions still require approval.   
 
 The first anniversary motivated the initial project timing, but the site itself is a general organization profile rather than an anniversary microsite. Historical dates and completed work may appear as supporting timeline content. The site remains `noindex` and visibly marked for internal review.
 
